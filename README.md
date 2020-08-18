@@ -1,5 +1,5 @@
 #
-Todo: Implement followsMe_FollowsU
+Todo: Implement followsMe_FollowsUPage
 
 
 # Instagram-API-python
